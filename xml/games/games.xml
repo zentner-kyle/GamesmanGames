@@ -64,4 +64,23 @@
     <play />
   </tags>
 </game>
+
+<game>
+  <title>Othello</title>
+  <description>
+    Othello is a basic game involving some things. These things are
+    important and will play an important role in things.
+  </description>
+  <image>images/othello.png</image>
+  <asset>othello</asset>
+  <tags>
+    <two-player />
+    <dartboard />
+    <solved />
+    <play />
+  </tags>
+</game>
+
+
 </games>
+
